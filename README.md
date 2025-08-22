@@ -13,9 +13,9 @@
 
 `*## 📌 Мои проекты:*`
 
-- `*[Flask блог](https://github.com/user/weather-api)*`
-- `*[Telegram бот с мини-играми](https://github.com/user/telegram-bot)*`
-- `*[Модель роспознований картинок](https://github.com/user/prices)*`
-- `*[Игра по типо марио]()*`
+- `*[Flask блог](https://github.com/Maksim278/)*`
+- `*[Telegram бот с мини-играми](https://github.com/Maksim278/TelegramBot)*`
+- `*[Модель роспознований картинок](https://github.com/Maksim278/TelegramBotAi)*`
+- `*[Игра по типо марио](https://github.com/Maksim278/Mario)*`
 
 `*📫 Контакты: [Telegram](https://t.me/username) | [LinkedIn](https://linkedin.com/in/username)*`
