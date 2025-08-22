@@ -13,7 +13,7 @@
 
 `*## 📌 Мои проекты:*`
 
-- `*[Flask блог](https://github.com/Maksim278/)*`
+- `*[Flask блог](https://github.com/Maksim278/RTS)*`
 - `*[Telegram бот с мини-играми](https://github.com/Maksim278/TelegramBot)*`
 - `*[Модель роспознований картинок](https://github.com/Maksim278/TelegramBotAi)*`
 - `*[Игра по типо марио](https://github.com/Maksim278/Mario)*`
